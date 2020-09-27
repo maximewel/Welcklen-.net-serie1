@@ -14,7 +14,7 @@ namespace Exercice3
         static void Main(string[] args)
         {
             // get file path with verbatime string (not relative, sad :-( )
-            string fileName = @"C:\Users\Maxime.Welcklen\source\repos\Serie1\Exercice3\Mesures.txt";
+            string fileName = @".\Mesures.txt";
 
             //safely open file
             StreamReader sr;
