@@ -13,7 +13,7 @@ namespace Exercice3
 
         static void Main(string[] args)
         {
-            // get file path with verbatime string (not relative, sad :-( )
+            // get file path with verbatime string
             string fileName = @".\Mesures.txt";
 
             //safely open file
